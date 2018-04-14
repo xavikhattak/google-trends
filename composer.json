@@ -10,9 +10,9 @@
     ],
     "require": {
         "php": ">=5.4",
-        "guzzle/guzzle": "dev-master",
-        "seostats/seostats": "dev-master",
-        "phpunit/phpunit" : "4.0.x",
+        "guzzle/guzzle": "*",
+        "seostats/seostats": "*",
+        "phpunit/phpunit" : "*",
         "squizlabs/php_codesniffer" : "*",
         "phpmd/phpmd" : "*"
     },
