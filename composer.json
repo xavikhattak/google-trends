@@ -16,12 +16,7 @@
         "squizlabs/php_codesniffer" : "*",
         "phpmd/phpmd" : "*"
     },
-    "require-dev" : {
-        "phpunit/phpunit" : "4.0.x",
-        "squizlabs/php_codesniffer" : "*",
-        "phpmd/phpmd" : "*",
-        "guzzle/guzzle": "dev-master"
-    },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "GSoares\\SeoAnalytics\\": "src/",
