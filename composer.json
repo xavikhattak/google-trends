@@ -14,7 +14,7 @@
         "seostats/seostats": "dev-master",
         "phpunit/phpunit" : "4.0.x",
         "squizlabs/php_codesniffer" : "*",
-        "phpmd/phpmd" : "*",
+        "phpmd/phpmd" : "*"
     },
     "require-dev" : {
         "phpunit/phpunit" : "4.0.x",
